@@ -114,7 +114,7 @@ header .menu{
       right: -100%;
       background: rgba(0,0,0,0.5);
       height: calc(100vh - 100px);
-      width: 40%;
+      width: 50%;
       flex-direction: column;
       align-items: center;
       transition: right 0.5s linear;
