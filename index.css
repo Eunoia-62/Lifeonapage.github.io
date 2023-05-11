@@ -122,6 +122,10 @@ header .menu{
       overflow-x: hidden;
       overflow-y: hidden;
   }
+  header ul .social i{
+      font-size: 17px;
+    }
+   
    
   header .menu{
       display: block;
