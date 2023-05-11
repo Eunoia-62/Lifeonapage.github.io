@@ -114,7 +114,7 @@ header .menu{
       right: -100%;
       background: rgba(0,0,0,0.5);
       height: calc(100vh - 100px);
-      width: 50%;
+      width: 40%;
       flex-direction: column;
       align-items: center;
       transition: right 0.5s linear;
@@ -122,11 +122,19 @@ header .menu{
       overflow-x: hidden;
       overflow-y: hidden;
   }
-  header ul .social i{
+    header ul .social i{
       font-size: 17px;
     }
-   
-   
+    header .title-a{
+      text-decoration: none;
+      color: #fff;
+      font-family:Zeyada;
+      font-weight: bold;
+      font-size:20px;
+    }
+    header .logo{
+      margin-left: 25px;
+    }
   header .menu{
       display: block;
       width:100px;
